@@ -875,7 +875,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "STEP 1",
+          "title1": "STEP &nbsp;1",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Choose your desired subject <br>and the type of tutor you <br>would like to book<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -907,7 +907,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "STEP 3",
+          "title3": "STEP &nbsp;3",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "We'll confirm your session <br>instantly and give you a call<br>to follow up in case you <br>have any questions<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1261,7 +1261,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">TUTORING GALAXY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://tinyurl.com/jcvanac\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>FIND A TUTOR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://tinyurl.com/hdx3uly\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>BECOME TUTOR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>BECOME COORDINATOR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CALL US +92 334 0917037</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://tinyurl.com/jcvanac\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>FIND A TUTOR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://tinyurl.com/hdx3uly\" target=\"_blank\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>BECOME TUTOR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://tinyurl.com/jebcnas\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>BECOME COORDINATOR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CALL US +92 334 0917037</a></li>"
         }
       ]
     }
