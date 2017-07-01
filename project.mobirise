@@ -137,6 +137,19 @@
           "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> "
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#7c706b"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://tinyurl.com/jcvanac\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-protect mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"http://tinyurl.com/hdx3uly\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BECOME TUTOR</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"http://tinyurl.com/hfq9orv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER YOUR INSTITUTE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://tinyurl.com/jebcnas\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BECOME COORDINATOR</a>"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -182,7 +195,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/computer-science-tutors-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/computer-science-tutors-2000x2000.png",
-                "caption": "<b>Computer Tutors</b>",
+                "caption": "<b><a href=\"http://tinyurl.com/jcvanac\" target=\"_blank\">Computer Tutors</a></b>",
                 "active": false
               },
               {
@@ -192,7 +205,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/chemistry-tutors-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/chemistry-tutors-2000x2000.png",
-                "caption": "<b>Chemistry Tutors</b>",
+                "caption": "<b><a href=\"http://tinyurl.com/jcvanac\" target=\"_blank\">Chemistry Tutors</a></b>",
                 "active": false
               },
               {
@@ -202,7 +215,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/biology-tutors-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/biology-tutors-2000x2000.png",
-                "caption": "<b>Biology Tutors</b>",
+                "caption": "<b><a href=\"http://tinyurl.com/jcvanac\" target=\"_blank\">Biology Tutors</a></b>",
                 "active": false
               },
               {
@@ -212,7 +225,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mathematics-tutors-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/mathematics-tutors-2000x2000.png",
-                "caption": "<b>Maths Tutors</b>",
+                "caption": "<b><a href=\"http://tinyurl.com/jcvanac\" target=\"_blank\">Maths Tutors</a></b>",
                 "active": false
               },
               {
@@ -222,7 +235,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/physics-tutors-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/physics-tutors-2000x2000.png",
-                "caption": "Physics Tutors<br>",
+                "caption": "<a href=\"http://tinyurl.com/jcvanac\" target=\"_blank\">Physics Tutors</a><br>",
                 "active": false
               },
               {
@@ -232,7 +245,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/business-subjects-tutors-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/business-subjects-tutors-2000x2000.png",
-                "caption": "Business Subjects Tutors",
+                "caption": "<a href=\"http://tinyurl.com/jcvanac\" target=\"_blank\">Business Subjects Tutors</a>",
                 "active": false
               },
               {
@@ -242,7 +255,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/english-language-tutors-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/english-language-tutors-2000x2000.png",
-                "caption": "English Tutors",
+                "caption": "<a href=\"http://tinyurl.com/jcvanac\" target=\"_blank\">English Tutors</a>",
                 "active": false
               },
               {
@@ -252,7 +265,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/admission-test-tutors-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/admission-test-tutors-2000x2000.png",
-                "caption": "<b>Admission Test Tutors</b>",
+                "caption": "<b><a href=\"http://tinyurl.com/jcvanac\" target=\"_blank\">Admission Test Tutors</a></b>",
                 "active": true
               }
             ],
@@ -334,19 +347,6 @@
           "title": "See how you can improve your grades",
           "text": "<p>Learn difficult concepts in an intuitive and fun digital classroom.<br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/fFUYjSLDWGc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-video mbr-iconfont mbr-iconfont-btn\"></span>CLICK FOR MORE VIDEOS</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-y",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#7c706b"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://tinyurl.com/jcvanac\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-protect mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"http://tinyurl.com/hdx3uly\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BECOME TUTOR</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"http://tinyurl.com/hfq9orv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER YOUR INSTITUTE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://tinyurl.com/jebcnas\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BECOME COORDINATOR</a>"
         },
         {
           "_inherit": "features4",
@@ -486,12 +486,12 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-20",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -507,11 +507,14 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://qurantutoring.github.io/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>AL QURAN ONLINE TUORING</a>",
           "text": "<br>",
-          "title": "The World's Most Experienced<div>And Trusted Institute for Quran Learning</div>",
+          "title": "The World's Most Experienced<div>And Trusted Institute for&nbsp;<span style=\"line-height: 1.1;\">Quran Learning</span></div>",
           "_styles": {
             "H3": {
               "font-size": "32px",
-              "text-align": "center"
+              "text-align": "left"
+            },
+            "DIV": {
+              "color": "#cccccc"
             }
           }
         },
@@ -1435,102 +1438,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">TUTORING GALAXY</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://tinyurl.com/jcvanac\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>FIND A TUTOR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://tinyurl.com/hdx3uly\" target=\"_blank\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>BECOME TUTOR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://tinyurl.com/jebcnas\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>BECOME COORDINATOR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CALL US +92 334 0917037</a></li>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery4",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": true,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery4-1y",
-          "articleLayout": false,
-          "allItem": "All"
         }
       ]
     }
