@@ -431,6 +431,16 @@ h6,
   font-size: 20px;
   text-align: left;
 }
+#header3-1x .mbr-section-title,
+#header3-1x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1x B {
+  font-size: 25px;
+}
+#gallery4-1z .mbr-gallery-item > div > span {
+  text-align: center;
+}
 #msg-box4-11 P {
   color: #000000;
 }
@@ -443,6 +453,10 @@ h6,
 #features7-m .iconbox {
   background-color: #c0a375;
   border-color: #c0a375;
+}
+#msg-box1-20 H3 {
+  font-size: 32px;
+  text-align: center;
 }
 #msg-box5-o H3 {
   font-size: 36px;
