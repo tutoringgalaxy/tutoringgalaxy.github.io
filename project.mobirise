@@ -143,6 +143,12 @@
             },
             "B": {
               "font-size": "25px"
+            },
+            "SMALL": {
+              "text-align": "right"
+            },
+            "H3": {
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -157,7 +163,7 @@
             "showMeta": true
           },
           "title": "TUTORING GALAXY CONNECT YOU",
-          "meta": "<b>WITH THE BEST LOCAL &amp; ONLINE TUTORS</b><br>"
+          "meta": "<b><br></b><br><b>WITH THE BEST LOCAL &amp; ONLINE TUTORS</b><br><b><br></b><br>"
         },
         {
           "_inherit": "gallery1",

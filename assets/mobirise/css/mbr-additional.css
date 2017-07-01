@@ -438,6 +438,12 @@ h6,
 #header3-1x B {
   font-size: 25px;
 }
+#header3-1x SMALL {
+  text-align: right;
+}
+#header3-1x H3 {
+  text-align: right;
+}
 #gallery4-1z .mbr-gallery-item > div > span {
   text-align: center;
 }
