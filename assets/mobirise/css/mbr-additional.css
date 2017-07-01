@@ -462,7 +462,10 @@ h6,
 }
 #msg-box1-20 H3 {
   font-size: 32px;
-  text-align: center;
+  text-align: left;
+}
+#msg-box1-20 DIV {
+  color: #cccccc;
 }
 #msg-box5-o H3 {
   font-size: 36px;
