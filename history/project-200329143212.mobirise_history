@@ -1343,8 +1343,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "15px",
-              "color": "#ffffff"
+              "font-size": "15px"
             }
           },
           "_tags": [

@@ -222,7 +222,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/computer-science-tutors-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/computer-science-tutors-2000x2000.png",
                 "caption": "<b><a href=\"http://tinyurl.com/jcvanac\" target=\"_blank\">Computer Tutors</a></b>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -292,7 +292,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/admission-test-tutors-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/admission-test-tutors-2000x2000.png",
                 "caption": "<b><a href=\"http://tinyurl.com/jcvanac\" target=\"_blank\">Admission Test Tutors</a></b>",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -1343,8 +1343,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "15px",
-              "color": "#ffffff"
+              "font-size": "15px"
             }
           },
           "_tags": [
