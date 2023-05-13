@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /account/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /contact/
+Disallow: /login/
+Disallow: /register/
+Disallow: /search/
+Disallow: /terms/
+Disallow: /privacy/
+Disallow: /404/
+Sitemap: https://www.tutoringgalaxy.com/sitemap.xml
